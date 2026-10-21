@@ -1,0 +1,1247 @@
+[
+ {
+  "id": "pt-aa3e0f3873",
+  "logradouro": "Ac. 6",
+  "numero": null,
+  "cruzamento": "R. Dom Altamiro Rossato",
+  "bairro": "Jardim Carvalho",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Ac. 6 / R. Dom Altamiro Rossato - Jardim Carvalho, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-1ecfe59e5c",
+  "logradouro": "Alameda Da Fumaça",
+  "numero": "39",
+  "cruzamento": null,
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": "Ponto De Ônibus",
+  "enderecoOriginal": "Alameda Da Fumaça, 39, Mario Quintana, Porto Alegre, RS - (Ponto De Ônibus)",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-d9b66be03a",
+  "logradouro": "Av. 10 de Maio",
+  "numero": null,
+  "cruzamento": "Rua Sebastião Barreto",
+  "bairro": "Passo Das Pedra",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. 10 de Maio / Rua Sebastião Barreto, Passo Das Pedra, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 2
+ },
+ {
+  "id": "pt-6daedd75bf",
+  "logradouro": "Av. Adelino Ferreira Jardim",
+  "numero": null,
+  "cruzamento": "Estr. Martim Félix Berta",
+  "bairro": "Rubem Berta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Adelino Ferreira Jardim / Estr. Martim Félix Berta, Rubem Berta, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-23e939c767",
+  "logradouro": "Av. Antônio de Carvalho",
+  "numero": null,
+  "cruzamento": "Av. Ipiranga",
+  "bairro": "Agronomia",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": "Super Sacolão",
+  "enderecoOriginal": "Av. Antônio de Carvalho / Av. Ipiranga, Agronomia, Porto Alegre, RS - (Super Sacolão)",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-ff70ea4515",
+  "logradouro": "Av. Baltazar de Oliveira Garcia",
+  "numero": "3608",
+  "cruzamento": null,
+  "bairro": "Rubem Berta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Baltazar de Oliveira Garcia, 3608, Rubem Berta, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-327253770d",
+  "logradouro": "Av. Baltazar de Oliveira Garcia",
+  "numero": "4344",
+  "cruzamento": null,
+  "bairro": "Rubem Berta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Baltazar de Oliveira Garcia, 4344, Rubem Berta, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 2
+ },
+ {
+  "id": "pt-85d3048c13",
+  "logradouro": "Av. Bento Gonçalves",
+  "numero": null,
+  "cruzamento": "Rua Marista",
+  "bairro": "Vila Joao Pessoa",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Bento Gonçalves / Rua Marista, Vila Joao Pessoa, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-936273a3d0",
+  "logradouro": "Av. Bernardino Silveira Amorim",
+  "numero": "1500",
+  "cruzamento": null,
+  "bairro": "Santa Rosa de Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Bernardino Silveira Amorim, 1500, Santa Rosa de Lima, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-1a65736197",
+  "logradouro": "Av. Bernardino Silveira Pastoriza",
+  "numero": "1190",
+  "cruzamento": null,
+  "bairro": "Santa Rosa de Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Bernardino Silveira Pastoriza, 1190, Santa Rosa de Lima, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-2142a284a1",
+  "logradouro": "Av. Delegado Ely Corrêa Prado",
+  "numero": null,
+  "cruzamento": "Rua Saturnino José Geraldo",
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Delegado Ely Corrêa Prado / Rua Saturnino José Geraldo, Mario Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-f7df748940",
+  "logradouro": "Av. Dos Gaúchos 1393",
+  "numero": null,
+  "cruzamento": null,
+  "bairro": "Sarandi",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Dos Gaúchos 1393, Sarandi, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-a19cdd4853",
+  "logradouro": "Av. dos Prazeres",
+  "numero": null,
+  "cruzamento": "Beco da Paz",
+  "bairro": "Vila Jardim",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. dos Prazeres / Beco da Paz, Vila Jardim, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-990cd09bd4",
+  "logradouro": "Av. dos Prazeres",
+  "numero": "33",
+  "cruzamento": null,
+  "bairro": "Vila Jardim",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. dos Prazeres, 33, Vila Jardim, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-ff962d1322",
+  "logradouro": "Av. Faria Lobato",
+  "numero": null,
+  "cruzamento": "Rua Pandiá Calógeras",
+  "bairro": "Sarandi",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Faria Lobato / Rua Pandiá Calógeras, Sarandi, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-6cb121871e",
+  "logradouro": "Av. Farrapos",
+  "numero": "858",
+  "cruzamento": null,
+  "bairro": "Floresta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": "Posto Anchieta 4",
+  "enderecoOriginal": "Av. Farrapos, 858, Floresta, Porto Alegre, RS - (Posto Anchieta 4)",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-74140a5947",
+  "logradouro": "Av. Ipiranga",
+  "numero": null,
+  "cruzamento": "Rua Barão do Amazonas",
+  "bairro": "Partenon",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Ipiranga / Rua Barão do Amazonas, Partenon, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-72320b0ec4",
+  "logradouro": "Av. Ipê",
+  "numero": "62",
+  "cruzamento": null,
+  "bairro": "Vila Jardim",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Ipê, 62, Vila Jardim, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-c5d8aee56e",
+  "logradouro": "Av. Irmão Faustino João",
+  "numero": null,
+  "cruzamento": "Rua Amaury Silveira",
+  "bairro": "Mário Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Irmão Faustino João / Rua Amaury Silveira, Mário Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-17a0783f9d",
+  "logradouro": "Av. Liberdade",
+  "numero": null,
+  "cruzamento": "Tv. Josué Viamonte",
+  "bairro": "Santa Isabel",
+  "cidade": "Viamão",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Liberdade / Tv. Josué Viamonte, Santa Isabel, Viamão, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-237fb9e767",
+  "logradouro": "Av. Manoel Elias",
+  "numero": "2329",
+  "cruzamento": null,
+  "bairro": "Mário Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Manoel Elias, 2329, Mário Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-4067c6687b",
+  "logradouro": "Av. Manoel Elias",
+  "numero": "2593",
+  "cruzamento": null,
+  "bairro": "Passo das Pedras",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Manoel Elias, 2593, Passo das Pedras, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 2
+ },
+ {
+  "id": "pt-21dc60c17a",
+  "logradouro": "Av. Maringá",
+  "numero": null,
+  "cruzamento": "Rua G",
+  "bairro": "Maringá",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Maringá / Rua G, Maringá, Alvorada, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-b32236e409",
+  "logradouro": "Av. Minas Gerais",
+  "numero": null,
+  "cruzamento": "Rua Oliveira Lopes",
+  "bairro": "Sarandi",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Minas Gerais / Rua Oliveira Lopes, Sarandi, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-cc46444083",
+  "logradouro": "Av. Plinio Kroeff",
+  "numero": "2020",
+  "cruzamento": null,
+  "bairro": "Rubem Berta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Plinio Kroeff, 2020, Rubem Berta, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-f79fade5c8",
+  "logradouro": "Av. Plínio Kroeff",
+  "numero": null,
+  "cruzamento": "Rua D",
+  "bairro": "Costa E Silva",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Plínio Kroeff / Rua D, Costa E Silva, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-6849c8622b",
+  "logradouro": "Av. Plínio Kroeff",
+  "numero": null,
+  "cruzamento": "Rua Di Cavalcanti",
+  "bairro": "Santa Rosa de Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Plínio Kroeff / Rua Di Cavalcanti, Santa Rosa de Lima, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-d16f26aa9c",
+  "logradouro": "Av. Pres. Getúlio Vargas",
+  "numero": "1615",
+  "cruzamento": null,
+  "bairro": "Bela Vista",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": "Parada 46",
+  "enderecoOriginal": "Av. Pres. Getúlio Vargas, 1615, Parada 46, Bela Vista, Alvorada, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-3cc3286189",
+  "logradouro": "Av. Pres. Getúlio Vargas",
+  "numero": "5798",
+  "cruzamento": null,
+  "bairro": "Piratini",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": "Parada 62, Art Cross Lanches",
+  "enderecoOriginal": "Av. Pres. Getúlio Vargas, 5798, Parada 62, Piratini, Alvorada, RS - (Art Cross Lanches)",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-884b1de498",
+  "logradouro": "Av. Protásio Alves",
+  "numero": null,
+  "cruzamento": "Rua Egidio Piccoli",
+  "bairro": "Mário Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Protásio Alves / Rua Egidio Piccoli, Mário Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-de3940b598",
+  "logradouro": "Av. Protásio Alves",
+  "numero": null,
+  "cruzamento": "Rua Recife",
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Protásio Alves / Rua Recife, Mario Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-affbbc3a40",
+  "logradouro": "Av. Protásio Alves",
+  "numero": "6220",
+  "cruzamento": null,
+  "bairro": "Petrópolis",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Protásio Alves, 6220, Petrópolis, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-357ef4b087",
+  "logradouro": "Av. Santo Dias da Silva",
+  "numero": "3",
+  "cruzamento": null,
+  "bairro": "Lomba do Pinheiro",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Santo Dias da Silva, 3, Lomba do Pinheiro, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-15d780bebe",
+  "logradouro": "Av. Sen. Salgado Filho",
+  "numero": null,
+  "cruzamento": "Rua Dr. Flores",
+  "bairro": "Centro Historico",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Sen. Salgado Filho / Rua Dr. Flores, Centro Historico, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-7329038be4",
+  "logradouro": "Av. Willy Eugênio Fleck",
+  "numero": null,
+  "cruzamento": "Av. Plínio Kroeff",
+  "bairro": "Santa Rosa De Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Av. Willy Eugênio Fleck / Av. Plínio Kroeff, Santa Rosa De Lima, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-6c08a0a2e4",
+  "logradouro": "Estr. João Antônio da Silveira",
+  "numero": null,
+  "cruzamento": "Rua Meracy Martins da Silva",
+  "bairro": "Restinga",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Estr. João Antônio da Silveira / Rua Meracy Martins da Silva, Restinga, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-e7f6702772",
+  "logradouro": "Estr. João de Oliveira Remião",
+  "numero": "7810",
+  "cruzamento": null,
+  "bairro": "Lomba do Pinheiro",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": "Posto Shell",
+  "enderecoOriginal": "Estr. João de Oliveira Remião, 7810, Lomba do Pinheiro, Porto Alegre, RS – (Posto Shell)",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-04eb5f2b2d",
+  "logradouro": "Estr. Martim Félix Berta",
+  "numero": null,
+  "cruzamento": "Av. Serafim Machado",
+  "bairro": "Rubem Berta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Estr. Martim Félix Berta / Av. Serafim Machado, Rubem Berta, Porto Alegre, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-4ec768792f",
+  "logradouro": "Estr. São Francisco",
+  "numero": "286",
+  "cruzamento": null,
+  "bairro": "Lomba do Pinheiro",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Estr. São Francisco, 286, Lomba do Pinheiro, Porto Alegre, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-8a1f44244a",
+  "logradouro": "Rua 9 de Junho",
+  "numero": "1050",
+  "cruzamento": null,
+  "bairro": "São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua 9 de Junho, 1050, São José, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-5d9bb1888e",
+  "logradouro": "Rua Ana Maria Zardin",
+  "numero": null,
+  "cruzamento": "Rua Manoel João Martins",
+  "bairro": "Santa Rosa de Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Ana Maria Zardin / Rua Manoel João Martins, Santa Rosa de Lima, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-c7ae0b57a7",
+  "logradouro": "Rua Ana Maria Zardin",
+  "numero": "68",
+  "cruzamento": null,
+  "bairro": "Santa Rosa De Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Ana Maria Zardin, 68, Santa Rosa De Lima, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-a2c4e08daa",
+  "logradouro": "Rua Antônio Carlos Jobim",
+  "numero": "35",
+  "cruzamento": null,
+  "bairro": "Jardim Algarve",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Antônio Carlos Jobim, 35, Jardim Algarve, Alvorada, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-e4468ff7fa",
+  "logradouro": "Rua Araraquara",
+  "numero": null,
+  "cruzamento": "Rua Anápolis",
+  "bairro": "São Tomé",
+  "cidade": "Viamão",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Araraquara / Rua Anápolis , São Tomé, Viamão, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-1f96ffa5e9",
+  "logradouro": "Rua Barbosa Neto",
+  "numero": null,
+  "cruzamento": "Rua Bandeirante",
+  "bairro": "Jardim Algarve",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Barbosa Neto / Rua Bandeirante, Jardim Algarve, Alvorada, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-1d37a1506f",
+  "logradouro": "Rua Bom Jesus",
+  "numero": null,
+  "cruzamento": "Rua São Felipe",
+  "bairro": "Bom Jesus",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Bom Jesus / Rua São Felipe, Bom Jesus, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-022f1bb591",
+  "logradouro": "Rua Carlos Estevão",
+  "numero": "273",
+  "cruzamento": null,
+  "bairro": "Jardim Dona Leopoldina",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Carlos Estevão, 273, Jardim Dona Leopoldina, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-ae011bea22",
+  "logradouro": "Rua Cavalo Crioulo",
+  "numero": null,
+  "cruzamento": "Rua Antônio Simões",
+  "bairro": "Vila São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Cavalo Crioulo / Rua Antônio Simões, Vila São José, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-3458422285",
+  "logradouro": "Rua Clemente Pereira",
+  "numero": null,
+  "cruzamento": "Rua Primeiro de Setembro",
+  "bairro": "Vila São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Clemente Pereira / Rua Primeiro de Setembro, Vila São José, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-402bff1835",
+  "logradouro": "Rua Comandai",
+  "numero": null,
+  "cruzamento": "Rua Arapei",
+  "bairro": "Cristal",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Comandai / Rua Arapei, Cristal, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-000e858e40",
+  "logradouro": "Rua Dona Firmina",
+  "numero": null,
+  "cruzamento": "Rua Vinte e Seis de Dezembro",
+  "bairro": "Vila São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Dona Firmina / Rua Vinte e Seis de Dezembro, Vila São José, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-268d840c24",
+  "logradouro": "Rua dos Maias",
+  "numero": "1100",
+  "cruzamento": null,
+  "bairro": "Santa Rosa de Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua dos Maias, 1100, Santa Rosa de Lima, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-62aacf35be",
+  "logradouro": "Rua dos Maias",
+  "numero": "1619",
+  "cruzamento": null,
+  "bairro": "Rubem Berta",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua dos Maias, 1619, Rubem Berta, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-e13d4a3b97",
+  "logradouro": "Rua Doutor Alberto Barbosa",
+  "numero": null,
+  "cruzamento": "Rua Gioconda",
+  "bairro": "Vila Ipiranga",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Doutor Alberto Barbosa / Rua Gioconda, Vila Ipiranga, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-d2b7e8fc1a",
+  "logradouro": "Rua Dr. Alberto Barbosa",
+  "numero": null,
+  "cruzamento": "Av. Dr. Nilo Peçanha",
+  "bairro": "Vila Jardim",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Dr. Alberto Barbosa / Av. Dr. Nilo Peçanha, Vila Jardim, Porto Alegre, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-d3f2f75232",
+  "logradouro": "Rua Dário Gonçalves Molho",
+  "numero": null,
+  "cruzamento": "Tv. Fontanella",
+  "bairro": "Augusta",
+  "cidade": "Viamão",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Dário Gonçalves Molho / Tv. Fontanella, Augusta, Viamão, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-6309263cb9",
+  "logradouro": "Rua Ernesto Araújo",
+  "numero": null,
+  "cruzamento": "Rua Dona Firmina",
+  "bairro": "São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Ernesto Araújo / Rua Dona Firmina, São José, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-1d7dab8f4d",
+  "logradouro": "Rua Ernesto Araújo",
+  "numero": null,
+  "cruzamento": "Rua Martins de Lima",
+  "bairro": "São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Ernesto Araújo / Rua Martins de Lima, São José, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-bb4bdc35e3",
+  "logradouro": "Rua Ernesto Araújo",
+  "numero": null,
+  "cruzamento": "Rua Primeiro de Setembro",
+  "bairro": "São José",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Ernesto Araújo / Rua Primeiro de Setembro, São José, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-dcc5d14cbf",
+  "logradouro": "Rua Francisco Pinto Gutierrez",
+  "numero": "901",
+  "cruzamento": null,
+  "bairro": "Cecília",
+  "cidade": "Viamão",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Francisco Pinto Gutierrez, 901, Cecília, Viamão, RS",
+  "linhas": [
+   "L102"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-80910164bf",
+  "logradouro": "Rua Ipê",
+  "numero": "380",
+  "cruzamento": null,
+  "bairro": "Vila Jardim",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": "Locater JC - Locações e Terraplenagem",
+  "enderecoOriginal": "Rua Ipê, 380, Vila Jardim, Porto Alegre, RS - (Locater JC - Locações e Terraplenagem)",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-c51d818839",
+  "logradouro": "Rua Irmão Antônio Cecchin",
+  "numero": null,
+  "cruzamento": "Rua Ten-Cel. Waldomiro Eifler",
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Irmão Antônio Cecchin / Rua Ten-Cel. Waldomiro Eifler, Mario Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-59e2647aa2",
+  "logradouro": "Rua Itapema",
+  "numero": null,
+  "cruzamento": "Beco da Paz",
+  "bairro": "Vila Jardim",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Itapema / Beco da Paz, Vila Jardim, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-8a385e30af",
+  "logradouro": "Rua José Madrid",
+  "numero": null,
+  "cruzamento": "Rua Seis",
+  "bairro": "Bom Jesus",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua José Madrid / Rua Seis, Bom Jesus, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-4124e2c25a",
+  "logradouro": "Rua José Madrid",
+  "numero": "672",
+  "cruzamento": null,
+  "bairro": "Bom Jesus",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua José Madrid, 672, Bom Jesus, Porto Alegre, RS",
+  "linhas": [
+   "L201"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-3915d9f810",
+  "logradouro": "Rua Marquês do Pombal",
+  "numero": null,
+  "cruzamento": "Rua Itararé",
+  "bairro": "Americana",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Marquês do Pombal / Rua Itararé, Americana, Alvorada, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-95a6c5246d",
+  "logradouro": "Rua Mena Barreto",
+  "numero": null,
+  "cruzamento": "Av. Olegário José Guimarães",
+  "bairro": "Piratini",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Mena Barreto / Av. Olegário José Guimarães, Piratini, Alvorada, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-7761eeac91",
+  "logradouro": "Rua Nações Unidas",
+  "numero": null,
+  "cruzamento": "Rua Álvaro Moreira",
+  "bairro": "Aparecida",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Nações Unidas / Rua Álvaro Moreira, Aparecida, Alvorada, RS",
+  "linhas": [
+   "L103"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-7eeb9645b9",
+  "logradouro": "Rua Ondina Machado",
+  "numero": null,
+  "cruzamento": "Rua Sebastião do Nascimento",
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Ondina Machado / Rua Sebastião do Nascimento, Mario Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-fe88e76b21",
+  "logradouro": "Rua Osvaldo Franca Júnior",
+  "numero": null,
+  "cruzamento": "Rua Júlio José Lopes da Silva",
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Osvaldo Franca Júnior / Rua Júlio José Lopes da Silva, Mario Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-2a85bdcc01",
+  "logradouro": "Rua Paulino Azurenha",
+  "numero": null,
+  "cruzamento": "Av. Bento Gonçalves",
+  "bairro": "Partenon",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Paulino Azurenha / Av. Bento Gonçalves, Partenon, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-f7d83aedce",
+  "logradouro": "Rua Pedro Ismael Claros",
+  "numero": null,
+  "cruzamento": "Rua Ten. Eugênio Duarte",
+  "bairro": "Jardim Algarve",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Pedro Ismael Claros / Rua Ten. Eugênio Duarte, Jardim Algarve, Alvorada, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-259cd0bd4a",
+  "logradouro": "Rua Pero Lobo Pinheiro",
+  "numero": null,
+  "cruzamento": "Rua João Paris",
+  "bairro": "Santa Rosa De Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Pero Lobo Pinheiro / Rua João Paris, Santa Rosa De Lima, Porto Alegre, RS",
+  "linhas": [
+   "L104"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-c7ded5aa21",
+  "logradouro": "Rua Saturnino José Geraldo",
+  "numero": null,
+  "cruzamento": "Rua Luiz Sibemberg",
+  "bairro": "Mario Quintana",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Saturnino José Geraldo / Rua Luiz Sibemberg, Mario Quintana, Porto Alegre, RS",
+  "linhas": [
+   "L204"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-e8e10f80e2",
+  "logradouro": "Rua Silvestre Félix Rodrigues",
+  "numero": null,
+  "cruzamento": "Rua Terezinha Turcato",
+  "bairro": "Costa E Silva",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Silvestre Félix Rodrigues / Rua Terezinha Turcato, Costa E Silva, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-26ce696cc9",
+  "logradouro": "Rua São Francisco",
+  "numero": null,
+  "cruzamento": "Rua Euclides Da Cunha",
+  "bairro": "Partenon",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua São Francisco / Rua Euclides Da Cunha, Partenon, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-e461ea578c",
+  "logradouro": "Rua Tamoios",
+  "numero": "249",
+  "cruzamento": null,
+  "bairro": "Parque Índio Jari",
+  "cidade": "Viamão",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Tamoios, 249, Parque Índio Jari, Viamão, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-0e2b31b0ac",
+  "logradouro": "Rua Tiradentes",
+  "numero": null,
+  "cruzamento": "Av. Sen. Salgado Filho",
+  "bairro": "Viamópolis",
+  "cidade": "Viamão",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Tiradentes / Av. Sen. Salgado Filho, Viamópolis, Viamão, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-ab0162ee66",
+  "logradouro": "Rua Tupi",
+  "numero": null,
+  "cruzamento": "Rua Roque Santeiro",
+  "bairro": "Maria Regina",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Tupi / Rua Roque Santeiro, Maria Regina, Alvorada, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-0061146323",
+  "logradouro": "Rua Valdemar Albino de Araújo",
+  "numero": null,
+  "cruzamento": "Rua M",
+  "bairro": "Santa Rosa de Lima",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Valdemar Albino de Araújo / Rua M, Santa Rosa de Lima, Porto Alegre, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-22c57f1bc4",
+  "logradouro": "Rua Valdomiro Souza",
+  "numero": "80",
+  "cruzamento": null,
+  "bairro": "Jardim do Salso",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Valdomiro Souza, 80, Jardim do Salso, Porto Alegre, RS",
+  "linhas": [
+   "L101"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-46cf9c0fb6",
+  "logradouro": "Rua Vale Verde",
+  "numero": "2209",
+  "cruzamento": null,
+  "bairro": "Lomba do Pinheiro",
+  "cidade": "Porto Alegre",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Vale Verde, 2209, Lomba do Pinheiro, Porto Alegre, RS",
+  "linhas": [
+   "L202"
+  ],
+  "passageiros": 1
+ },
+ {
+  "id": "pt-7bad5de32e",
+  "logradouro": "Rua Vilson da Silva Amaral",
+  "numero": "206",
+  "cruzamento": null,
+  "bairro": "Maria Regina",
+  "cidade": "Alvorada",
+  "uf": "RS",
+  "referencia": null,
+  "enderecoOriginal": "Rua Vilson da Silva Amaral, 206, Maria Regina, Alvorada, RS",
+  "linhas": [
+   "L203"
+  ],
+  "passageiros": 1
+ }
+]

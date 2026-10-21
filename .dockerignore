@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.gitignore
+.vscode
+.env
+.env.*
+# planilhas de passageiros (LGPD): não entram no contexto de build
+planilhas
+*.xlsx
+# apenas a pasta data/ da raiz (public/data/pontos-coleta.json vai para a imagem normalmente)
+data
+tsconfig.tsbuildinfo
+*.log

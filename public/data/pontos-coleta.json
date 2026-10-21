@@ -1,0 +1,966 @@
+{
+ "geradoEm": "2026-10-21T23:13:32.003Z",
+ "fonte": "Planilhas IGUATEMI_L*_ENTRADA_OK + Nominatim/OSM (© OpenStreetMap contributors)",
+ "pontos": [
+  {
+   "id": "pt-aa3e0f3873",
+   "nome": "Ac. 6 / R. Dom Altamiro Rossato",
+   "endereco": "Ac. 6 / R. Dom Altamiro Rossato - Jardim Carvalho, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0540061,
+   "lng": -51.1503602,
+   "precisao": "via",
+   "resolvidoComo": "Jardim Carvalho, Porto Alegre, Rio Grande do Sul, Região Sul, Brasil"
+  },
+  {
+   "id": "pt-d9b66be03a",
+   "nome": "Av. 10 de Maio / Rua Sebastião Barreto",
+   "endereco": "Av. 10 de Maio / Rua Sebastião Barreto, Passo Das Pedra, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0233148,
+   "lng": -51.1245055,
+   "precisao": "via",
+   "resolvidoComo": "Avenida 10 de Maio, Jardim Passo das Pedras II, Passo das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91230-485, Brasil"
+  },
+  {
+   "id": "pt-6daedd75bf",
+   "nome": "Av. Adelino Ferreira Jardim / Estr. Martim Félix Berta",
+   "endereco": "Av. Adelino Ferreira Jardim / Estr. Martim Félix Berta, Rubem Berta, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0210552,
+   "lng": -51.1071455,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Adelino Ferreira Jardim, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-460, Brasil"
+  },
+  {
+   "id": "pt-23e939c767",
+   "nome": "Av. Antônio de Carvalho / Av. Ipiranga (Super Sacolão)",
+   "endereco": "Av. Antônio de Carvalho / Av. Ipiranga, Agronomia, Porto Alegre, RS - (Super Sacolão)",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0644702,
+   "lng": -51.1504944,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Antônio de Carvalho, Agronomia, Porto Alegre, Rio Grande do Sul, Região Sul, 91530-360, Brasil"
+  },
+  {
+   "id": "pt-ff70ea4515",
+   "nome": "Av. Baltazar de Oliveira Garcia, 3608",
+   "endereco": "Av. Baltazar de Oliveira Garcia, 3608, Rubem Berta, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0131513,
+   "lng": -51.0984406,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Baltazar de Oliveira Garcia, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-003, Brasil"
+  },
+  {
+   "id": "pt-327253770d",
+   "nome": "Av. Baltazar de Oliveira Garcia, 4344",
+   "endereco": "Av. Baltazar de Oliveira Garcia, 4344, Rubem Berta, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0131513,
+   "lng": -51.0984406,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Baltazar de Oliveira Garcia, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-003, Brasil"
+  },
+  {
+   "id": "pt-85d3048c13",
+   "nome": "Av. Bento Gonçalves / Rua Marista",
+   "endereco": "Av. Bento Gonçalves / Rua Marista, Vila Joao Pessoa, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0618971,
+   "lng": -51.1736648,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Bento Gonçalves, Vila João Pessoa, Porto Alegre, Rio Grande do Sul, Região Sul, 90550-003, Brasil"
+  },
+  {
+   "id": "pt-936273a3d0",
+   "nome": "Av. Bernardino Silveira Amorim, 1500",
+   "endereco": "Av. Bernardino Silveira Amorim, 1500, Santa Rosa de Lima, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9859196,
+   "lng": -51.1109719,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Bernardino Silveira Amorim, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91140-410, Brasil"
+  },
+  {
+   "id": "pt-1a65736197",
+   "nome": "Av. Bernardino Silveira Pastoriza, 1190",
+   "endereco": "Av. Bernardino Silveira Pastoriza, 1190, Santa Rosa de Lima, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9920764,
+   "lng": -51.1086029,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Bernardino Silveira Pastoriza, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-001, Brasil"
+  },
+  {
+   "id": "pt-2142a284a1",
+   "nome": "Av. Delegado Ely Corrêa Prado / Rua Saturnino José Geraldo",
+   "endereco": "Av. Delegado Ely Corrêa Prado / Rua Saturnino José Geraldo, Mario Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0354314,
+   "lng": -51.1070185,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Delegado Ely Corrêa Prado, Vila Safira, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91260-300, Brasil"
+  },
+  {
+   "id": "pt-f7df748940",
+   "nome": "Av. Dos Gaúchos 1393",
+   "endereco": "Av. Dos Gaúchos 1393, Sarandi, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -29.9909,
+   "lng": -51.1348091,
+   "precisao": "via",
+   "resolvidoComo": "Avenida dos Gaúchos, Vila Nova Brasília, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91120-150, Brasil"
+  },
+  {
+   "id": "pt-a19cdd4853",
+   "nome": "Av. dos Prazeres / Beco da Paz",
+   "endereco": "Av. dos Prazeres / Beco da Paz, Vila Jardim, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0312786,
+   "lng": -51.1485839,
+   "precisao": "via",
+   "resolvidoComo": "Avenida dos Prazeres, Vila Jardim, Porto Alegre, Rio Grande do Sul, Região Sul, 91320-001, Brasil"
+  },
+  {
+   "id": "pt-990cd09bd4",
+   "nome": "Av. dos Prazeres, 33",
+   "endereco": "Av. dos Prazeres, 33, Vila Jardim, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0312786,
+   "lng": -51.1485839,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida dos Prazeres, Vila Jardim, Porto Alegre, Rio Grande do Sul, Região Sul, 91320-001, Brasil"
+  },
+  {
+   "id": "pt-ff962d1322",
+   "nome": "Av. Faria Lobato / Rua Pandiá Calógeras",
+   "endereco": "Av. Faria Lobato / Rua Pandiá Calógeras, Sarandi, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9847862,
+   "lng": -51.133392,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Faria Lobato, Vila Nova Brasília, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91120-280, Brasil"
+  },
+  {
+   "id": "pt-6cb121871e",
+   "nome": "Av. Farrapos, 858 (Posto Anchieta 4)",
+   "endereco": "Av. Farrapos, 858, Floresta, Porto Alegre, RS - (Posto Anchieta 4)",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0222428,
+   "lng": -51.2127979,
+   "precisao": "numero",
+   "resolvidoComo": "Posto Ipiranga, 858, Avenida Farrapos, Floresta, Porto Alegre, Rio Grande do Sul, Região Sul, 90220-180, Brasil"
+  },
+  {
+   "id": "pt-74140a5947",
+   "nome": "Av. Ipiranga / Rua Barão do Amazonas",
+   "endereco": "Av. Ipiranga / Rua Barão do Amazonas, Partenon, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0559748,
+   "lng": -51.1681134,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Ipiranga, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 91410-000, Brasil"
+  },
+  {
+   "id": "pt-72320b0ec4",
+   "nome": "Av. Ipê, 62",
+   "endereco": "Av. Ipê, 62, Vila Jardim, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0318226,
+   "lng": -51.1544469,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Ipê, Vila Jardim, Porto Alegre, Rio Grande do Sul, Região Sul, 91320-001, Brasil"
+  },
+  {
+   "id": "pt-c5d8aee56e",
+   "nome": "Av. Irmão Faustino João / Rua Amaury Silveira",
+   "endereco": "Av. Irmão Faustino João / Rua Amaury Silveira, Mário Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.025646,
+   "lng": -51.0920752,
+   "precisao": "via",
+   "resolvidoComo": "Rua Irmão Faustino João, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-000, Brasil"
+  },
+  {
+   "id": "pt-17a0783f9d",
+   "nome": "Av. Liberdade / Tv. Josué Viamonte",
+   "endereco": "Av. Liberdade / Tv. Josué Viamonte, Santa Isabel, Viamão, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.0731688,
+   "lng": -51.1093704,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Liberdade, Medianeira, Passo do Sabão, Santa Isabel, Passo do Sabão, Viamão, Rio Grande do Sul, Região Sul, 91501-970, Brasil"
+  },
+  {
+   "id": "pt-237fb9e767",
+   "nome": "Av. Manoel Elias, 2329",
+   "endereco": "Av. Manoel Elias, 2329, Mário Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0315322,
+   "lng": -51.1210128,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Manoel Elias, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91240-261, Brasil"
+  },
+  {
+   "id": "pt-4067c6687b",
+   "nome": "Av. Manoel Elias, 2593",
+   "endereco": "Av. Manoel Elias, 2593, Passo das Pedras, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0243435,
+   "lng": -51.1201929,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Manoel Elias, Passo das Pedras, Porto Alegre, Rio Grande do Sul, Região Sul, 91230-485, Brasil"
+  },
+  {
+   "id": "pt-21dc60c17a",
+   "nome": "Av. Maringá / Rua G",
+   "endereco": "Av. Maringá / Rua G, Maringá, Alvorada, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0015117,
+   "lng": -51.0740477,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Maringá, Formosa / Maria Regina, Alvorada, Rio Grande do Sul, Região Sul, 94814-400, Brasil"
+  },
+  {
+   "id": "pt-b32236e409",
+   "nome": "Av. Minas Gerais / Rua Oliveira Lopes",
+   "endereco": "Av. Minas Gerais / Rua Oliveira Lopes, Sarandi, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -29.9905466,
+   "lng": -51.1268458,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Minas Gerais, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91140-340, Brasil"
+  },
+  {
+   "id": "pt-cc46444083",
+   "nome": "Av. Plinio Kroeff, 2020",
+   "endereco": "Av. Plinio Kroeff, 2020, Rubem Berta, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.998381,
+   "lng": -51.114552,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Plínio Kroeff, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-170, Brasil"
+  },
+  {
+   "id": "pt-f79fade5c8",
+   "nome": "Av. Plínio Kroeff / Rua D",
+   "endereco": "Av. Plínio Kroeff / Rua D, Costa E Silva, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -30.0028853,
+   "lng": -51.1160111,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Plínio Kroeff, Costa e Silva, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-180, Brasil"
+  },
+  {
+   "id": "pt-6849c8622b",
+   "nome": "Av. Plínio Kroeff / Rua Di Cavalcanti",
+   "endereco": "Av. Plínio Kroeff / Rua Di Cavalcanti, Santa Rosa de Lima, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -29.9984091,
+   "lng": -51.1143198,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Plínio Kroeff, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-170, Brasil"
+  },
+  {
+   "id": "pt-d16f26aa9c",
+   "nome": "Av. Pres. Getúlio Vargas, 1615 (Parada 46)",
+   "endereco": "Av. Pres. Getúlio Vargas, 1615, Parada 46, Bela Vista, Alvorada, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0106958,
+   "lng": -51.0913406,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Presidente Getúlio Vargas, Americana / Sumaré, Alvorada, Rio Grande do Sul, Região Sul, 94818-410, Brasil"
+  },
+  {
+   "id": "pt-3cc3286189",
+   "nome": "Av. Pres. Getúlio Vargas, 5798 (Parada 62, Art Cross Lanches)",
+   "endereco": "Av. Pres. Getúlio Vargas, 5798, Parada 62, Piratini, Alvorada, RS - (Art Cross Lanches)",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0071283,
+   "lng": -51.0404032,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Presidente Getúlio Vargas, Piratini, Alvorada, Rio Grande do Sul, Região Sul, 94838-630, Brasil"
+  },
+  {
+   "id": "pt-884b1de498",
+   "nome": "Av. Protásio Alves / Rua Egidio Piccoli",
+   "endereco": "Av. Protásio Alves / Rua Egidio Piccoli, Mário Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0379651,
+   "lng": -51.1185314,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Protásio Alves, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91270-450, Brasil"
+  },
+  {
+   "id": "pt-de3940b598",
+   "nome": "Av. Protásio Alves / Rua Recife",
+   "endereco": "Av. Protásio Alves / Rua Recife, Mario Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0459687,
+   "lng": -51.1013407,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Protásio Alves, Condomínio Residencial Aurora, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91280-155, Brasil"
+  },
+  {
+   "id": "pt-affbbc3a40",
+   "nome": "Av. Protásio Alves, 6220",
+   "endereco": "Av. Protásio Alves, 6220, Petrópolis, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0402543,
+   "lng": -51.1484912,
+   "precisao": "numero",
+   "resolvidoComo": "Hotel SESC Campestre, 6220, Avenida Protásio Alves, Jardim Sabará, Porto Alegre, Rio Grande do Sul, Região Sul, 91310-000, Brasil"
+  },
+  {
+   "id": "pt-357ef4b087",
+   "nome": "Av. Santo Dias da Silva, 3",
+   "endereco": "Av. Santo Dias da Silva, 3, Lomba do Pinheiro, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0960178,
+   "lng": -51.136689,
+   "precisao": "numero",
+   "resolvidoComo": "Avenida Santo Dias da Silva, Vila São Francisco, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91550-550, Brasil"
+  },
+  {
+   "id": "pt-15d780bebe",
+   "nome": "Av. Sen. Salgado Filho / Rua Dr. Flores",
+   "endereco": "Av. Sen. Salgado Filho / Rua Dr. Flores, Centro Historico, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0309822,
+   "lng": -51.2253264,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Senador Salgado Filho, Centro Histórico, Porto Alegre, Rio Grande do Sul, Região Sul, 90010-273, Brasil"
+  },
+  {
+   "id": "pt-7329038be4",
+   "nome": "Av. Willy Eugênio Fleck / Av. Plínio Kroeff",
+   "endereco": "Av. Willy Eugênio Fleck / Av. Plínio Kroeff, Santa Rosa De Lima, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9958273,
+   "lng": -51.1179307,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Willy Eugênio Fleck, Sarandi, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-170, Brasil"
+  },
+  {
+   "id": "pt-6c08a0a2e4",
+   "nome": "Estr. João Antônio da Silveira / Rua Meracy Martins da Silva",
+   "endereco": "Estr. João Antônio da Silveira / Rua Meracy Martins da Silva, Restinga, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.1538572,
+   "lng": -51.1376082,
+   "precisao": "via",
+   "resolvidoComo": "Estrada João Antônio da Silveira, Restinga, Porto Alegre, Rio Grande do Sul, Região Sul, 91790-070, Brasil"
+  },
+  {
+   "id": "pt-e7f6702772",
+   "nome": "Estr. João de Oliveira Remião, 7810 (Posto Shell)",
+   "endereco": "Estr. João de Oliveira Remião, 7810, Lomba do Pinheiro, Porto Alegre, RS – (Posto Shell)",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.1372824,
+   "lng": -51.0938654,
+   "precisao": "numero",
+   "resolvidoComo": "Estrada João de Oliveira Remião, Jardim Outeiral, Lomba do Pinheiro, Passo do Sabão, Porto Alegre, Rio Grande do Sul, Região Sul, 94470-971, Brasil"
+  },
+  {
+   "id": "pt-04eb5f2b2d",
+   "nome": "Estr. Martim Félix Berta / Av. Serafim Machado",
+   "endereco": "Estr. Martim Félix Berta / Av. Serafim Machado, Rubem Berta, Porto Alegre, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0203347,
+   "lng": -51.1073626,
+   "precisao": "via",
+   "resolvidoComo": "Avenida Martim Félix Berta, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-460, Brasil"
+  },
+  {
+   "id": "pt-4ec768792f",
+   "nome": "Estr. São Francisco, 286",
+   "endereco": "Estr. São Francisco, 286, Lomba do Pinheiro, Porto Alegre, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.0960992,
+   "lng": -51.1386608,
+   "precisao": "numero",
+   "resolvidoComo": "Estrada São Francisco, Vila São Francisco, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91550-550, Brasil"
+  },
+  {
+   "id": "pt-8a1f44244a",
+   "nome": "Rua 9 de Junho, 1050",
+   "endereco": "Rua 9 de Junho, 1050, São José, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0641481,
+   "lng": -51.1626923,
+   "precisao": "numero",
+   "resolvidoComo": "Rua 9 de Junho, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-540, Brasil"
+  },
+  {
+   "id": "pt-5d9bb1888e",
+   "nome": "Rua Ana Maria Zardin / Rua Manoel João Martins",
+   "endereco": "Rua Ana Maria Zardin / Rua Manoel João Martins, Santa Rosa de Lima, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9944697,
+   "lng": -51.102492,
+   "precisao": "via",
+   "resolvidoComo": "Rua Ana Maria Zardin, Vila Nova Santa Rosa, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-060, Brasil"
+  },
+  {
+   "id": "pt-c7ae0b57a7",
+   "nome": "Rua Ana Maria Zardin, 68",
+   "endereco": "Rua Ana Maria Zardin, 68, Santa Rosa De Lima, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9944697,
+   "lng": -51.102492,
+   "precisao": "numero",
+   "resolvidoComo": "Rua Ana Maria Zardin, Vila Nova Santa Rosa, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-060, Brasil"
+  },
+  {
+   "id": "pt-a2c4e08daa",
+   "nome": "Rua Antônio Carlos Jobim, 35",
+   "endereco": "Rua Antônio Carlos Jobim, 35, Jardim Algarve, Alvorada, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0315041,
+   "lng": -51.0777272,
+   "precisao": "via",
+   "resolvidoComo": "Rua Antônio Carlos Jobim, Porto Verde, Algarve, Alvorada, Rio Grande do Sul, Região Sul, 94858-000, Brasil"
+  },
+  {
+   "id": "pt-e4468ff7fa",
+   "nome": "Rua Araraquara / Rua Anápolis",
+   "endereco": "Rua Araraquara / Rua Anápolis , São Tomé, Viamão, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.1182016,
+   "lng": -51.0712377,
+   "precisao": "via",
+   "resolvidoComo": "Rua Araraquara, São Tomé, Passo do Sabão, Viamão, Rio Grande do Sul, Região Sul, 94460-530, Brasil"
+  },
+  {
+   "id": "pt-1f96ffa5e9",
+   "nome": "Rua Barbosa Neto / Rua Bandeirante",
+   "endereco": "Rua Barbosa Neto / Rua Bandeirante, Jardim Algarve, Alvorada, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -29.9828113,
+   "lng": -51.0469049,
+   "precisao": "via",
+   "resolvidoComo": "Rua Barbosa Neto, Umbu, Estância Grande, Alvorada, Rio Grande do Sul, Região Sul, 94832-122, Brasil"
+  },
+  {
+   "id": "pt-1d37a1506f",
+   "nome": "Rua Bom Jesus / Rua São Felipe",
+   "endereco": "Rua Bom Jesus / Rua São Felipe, Bom Jesus, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0435319,
+   "lng": -51.152329,
+   "precisao": "via",
+   "resolvidoComo": "Rua Bom Jesus, Bom Jesus, Porto Alegre, Rio Grande do Sul, Região Sul, 91430-003, Brasil"
+  },
+  {
+   "id": "pt-022f1bb591",
+   "nome": "Rua Carlos Estevão, 273",
+   "endereco": "Rua Carlos Estevão, 273, Jardim Dona Leopoldina, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0167514,
+   "lng": -51.1152589,
+   "precisao": "numero",
+   "resolvidoComo": "Rua Carlos Estevão, Jardim Leopoldina, Porto Alegre, Rio Grande do Sul, Região Sul, 91240-100, Brasil"
+  },
+  {
+   "id": "pt-ae011bea22",
+   "nome": "Rua Cavalo Crioulo / Rua Antônio Simões",
+   "endereco": "Rua Cavalo Crioulo / Rua Antônio Simões, Vila São José, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0776455,
+   "lng": -51.1697452,
+   "precisao": "via",
+   "resolvidoComo": "Rua Cavalo Crioulo, Vila Chácara dos Bombeiros, Coronel Aparício Borges, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-160, Brasil"
+  },
+  {
+   "id": "pt-3458422285",
+   "nome": "Rua Clemente Pereira / Rua Primeiro de Setembro",
+   "endereco": "Rua Clemente Pereira / Rua Primeiro de Setembro, Vila São José, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0708902,
+   "lng": -51.165336,
+   "precisao": "via",
+   "resolvidoComo": "Rua Clemente Pereira, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-560, Brasil"
+  },
+  {
+   "id": "pt-402bff1835",
+   "nome": "Rua Comandai / Rua Arapei",
+   "endereco": "Rua Comandai / Rua Arapei, Cristal, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0906968,
+   "lng": -51.2351015,
+   "precisao": "via",
+   "resolvidoComo": "Rua Comandaí, Cristal, Porto Alegre, Rio Grande do Sul, Região Sul, 90820-140, Brasil"
+  },
+  {
+   "id": "pt-000e858e40",
+   "nome": "Rua Dona Firmina / Rua Vinte e Seis de Dezembro",
+   "endereco": "Rua Dona Firmina / Rua Vinte e Seis de Dezembro, Vila São José, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0711132,
+   "lng": -51.1694413,
+   "precisao": "via",
+   "resolvidoComo": "Rua Dona Firmina, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-210, Brasil"
+  },
+  {
+   "id": "pt-268d840c24",
+   "nome": "Rua dos Maias, 1100",
+   "endereco": "Rua dos Maias, 1100, Santa Rosa de Lima, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -30.0030683,
+   "lng": -51.0982602,
+   "precisao": "numero",
+   "resolvidoComo": "Rua dos Maias, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-680, Brasil"
+  },
+  {
+   "id": "pt-62aacf35be",
+   "nome": "Rua dos Maias, 1619",
+   "endereco": "Rua dos Maias, 1619, Rubem Berta, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -30.0051361,
+   "lng": -51.098049,
+   "precisao": "numero",
+   "resolvidoComo": "Rua dos Maias, Parque dos Maias, Rubem Berta, Porto Alegre, Rio Grande do Sul, Região Sul, 91180-040, Brasil"
+  },
+  {
+   "id": "pt-e13d4a3b97",
+   "nome": "Rua Doutor Alberto Barbosa / Rua Gioconda",
+   "endereco": "Rua Doutor Alberto Barbosa / Rua Gioconda, Vila Ipiranga, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0273557,
+   "lng": -51.1521906,
+   "precisao": "via",
+   "resolvidoComo": "Rua Doutor Alberto Barbosa, Vila Jardim, Porto Alegre, Rio Grande do Sul, Região Sul, 91360-180, Brasil"
+  },
+  {
+   "id": "pt-d2b7e8fc1a",
+   "nome": "Rua Dr. Alberto Barbosa / Av. Dr. Nilo Peçanha",
+   "endereco": "Rua Dr. Alberto Barbosa / Av. Dr. Nilo Peçanha, Vila Jardim, Porto Alegre, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0285341,
+   "lng": -51.1545515,
+   "precisao": "via",
+   "resolvidoComo": "Rua Doutor Alberto Barbosa, Jardim Europa, Porto Alegre, Rio Grande do Sul, Região Sul, 91360-180, Brasil"
+  },
+  {
+   "id": "pt-d3f2f75232",
+   "nome": "Rua Dário Gonçalves Molho / Tv. Fontanella",
+   "endereco": "Rua Dário Gonçalves Molho / Tv. Fontanella, Augusta, Viamão, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.0612412,
+   "lng": -51.0815039,
+   "precisao": "via",
+   "resolvidoComo": "Rua Dario Gonçalves Molho, Augusta Marina, Augusta, Passo do Sabão, Viamão, Rio Grande do Sul, Região Sul, 94495-000, Brasil"
+  },
+  {
+   "id": "pt-6309263cb9",
+   "nome": "Rua Ernesto Araújo / Rua Dona Firmina",
+   "endereco": "Rua Ernesto Araújo / Rua Dona Firmina, São José, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0758511,
+   "lng": -51.1645193,
+   "precisao": "via",
+   "resolvidoComo": "Rua Ernesto Araujo, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-716, Brasil"
+  },
+  {
+   "id": "pt-1d7dab8f4d",
+   "nome": "Rua Ernesto Araújo / Rua Martins de Lima",
+   "endereco": "Rua Ernesto Araújo / Rua Martins de Lima, São José, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0758511,
+   "lng": -51.1645193,
+   "precisao": "via",
+   "resolvidoComo": "Rua Ernesto Araujo, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-716, Brasil"
+  },
+  {
+   "id": "pt-bb4bdc35e3",
+   "nome": "Rua Ernesto Araújo / Rua Primeiro de Setembro",
+   "endereco": "Rua Ernesto Araújo / Rua Primeiro de Setembro, São José, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0758511,
+   "lng": -51.1645193,
+   "precisao": "via",
+   "resolvidoComo": "Rua Ernesto Araujo, Vila São José, Porto Alegre, Rio Grande do Sul, Região Sul, 91520-716, Brasil"
+  },
+  {
+   "id": "pt-dcc5d14cbf",
+   "nome": "Rua Francisco Pinto Gutierrez, 901",
+   "endereco": "Rua Francisco Pinto Gutierrez, 901, Cecília, Viamão, RS",
+   "linhas": [
+    "L102"
+   ],
+   "lat": -30.0801593,
+   "lng": -51.1095566,
+   "precisao": "via",
+   "resolvidoComo": "Rua Francisco Pinto Gutierrez, Santa Isabel, Passo do Sabão, Viamão, Rio Grande do Sul, Região Sul, 91540-050, Brasil"
+  },
+  {
+   "id": "pt-80910164bf",
+   "nome": "Rua Ipê, 380 (Locater JC - Locações e Terraplenagem)",
+   "endereco": "Rua Ipê, 380, Vila Jardim, Porto Alegre, RS - (Locater JC - Locações e Terraplenagem)",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0437529,
+   "lng": -51.1065134,
+   "precisao": "numero",
+   "resolvidoComo": "Rua 5, Vila Jardim Protásio Alves, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91260-300, Brasil"
+  },
+  {
+   "id": "pt-c51d818839",
+   "nome": "Rua Irmão Antônio Cecchin / Rua Ten-Cel. Waldomiro Eifler",
+   "endereco": "Rua Irmão Antônio Cecchin / Rua Ten-Cel. Waldomiro Eifler, Mario Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0285098,
+   "lng": -51.0913195,
+   "precisao": "via",
+   "resolvidoComo": "Rua Tenente Coronel Waldomiro Eifler, Condomínio Reserva da Mata, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-000, Brasil"
+  },
+  {
+   "id": "pt-59e2647aa2",
+   "nome": "Rua Itapema / Beco da Paz",
+   "endereco": "Rua Itapema / Beco da Paz, Vila Jardim, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0314287,
+   "lng": -51.152161,
+   "precisao": "via",
+   "resolvidoComo": "Rua Itapema, Vila Jardim, Porto Alegre, Rio Grande do Sul, Região Sul, 91320-001, Brasil"
+  },
+  {
+   "id": "pt-8a385e30af",
+   "nome": "Rua José Madrid / Rua Seis",
+   "endereco": "Rua José Madrid / Rua Seis, Bom Jesus, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0496159,
+   "lng": -51.1517619,
+   "precisao": "via",
+   "resolvidoComo": "Rua José Madri, Vila Pinto, Bom Jesus, Porto Alegre, Rio Grande do Sul, Região Sul, 91420-120, Brasil"
+  },
+  {
+   "id": "pt-4124e2c25a",
+   "nome": "Rua José Madrid, 672",
+   "endereco": "Rua José Madrid, 672, Bom Jesus, Porto Alegre, RS",
+   "linhas": [
+    "L201"
+   ],
+   "lat": -30.0496159,
+   "lng": -51.1517619,
+   "precisao": "numero",
+   "resolvidoComo": "Rua José Madri, Vila Pinto, Bom Jesus, Porto Alegre, Rio Grande do Sul, Região Sul, 91420-120, Brasil"
+  },
+  {
+   "id": "pt-3915d9f810",
+   "nome": "Rua Marquês do Pombal / Rua Itararé",
+   "endereco": "Rua Marquês do Pombal / Rua Itararé, Americana, Alvorada, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -29.9847304,
+   "lng": -51.0871367,
+   "precisao": "via",
+   "resolvidoComo": "Rua Marquês do Pombal, Americana / Sumaré, Alvorada, Rio Grande do Sul, Região Sul, 94852-190, Brasil"
+  },
+  {
+   "id": "pt-95a6c5246d",
+   "nome": "Rua Mena Barreto / Av. Olegário José Guimarães",
+   "endereco": "Rua Mena Barreto / Av. Olegário José Guimarães, Piratini, Alvorada, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0182251,
+   "lng": -51.0514999,
+   "precisao": "via",
+   "resolvidoComo": "Rua Mena Barreto, Piratini, Alvorada, Rio Grande do Sul, Região Sul, 94838-440, Brasil"
+  },
+  {
+   "id": "pt-7761eeac91",
+   "nome": "Rua Nações Unidas / Rua Álvaro Moreira",
+   "endereco": "Rua Nações Unidas / Rua Álvaro Moreira, Aparecida, Alvorada, RS",
+   "linhas": [
+    "L103"
+   ],
+   "lat": -30.0193737,
+   "lng": -51.0705824,
+   "precisao": "via",
+   "resolvidoComo": "Rua Nações Unidas, Intersul, Alvorada, Rio Grande do Sul, Região Sul, 94853-190, Brasil"
+  },
+  {
+   "id": "pt-7eeb9645b9",
+   "nome": "Rua Ondina Machado / Rua Sebastião do Nascimento",
+   "endereco": "Rua Ondina Machado / Rua Sebastião do Nascimento, Mario Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.021516,
+   "lng": -51.0917641,
+   "precisao": "via",
+   "resolvidoComo": "Rua Ondina Machado, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91250-000, Brasil"
+  },
+  {
+   "id": "pt-fe88e76b21",
+   "nome": "Rua Osvaldo Franca Júnior / Rua Júlio José Lopes da Silva",
+   "endereco": "Rua Osvaldo Franca Júnior / Rua Júlio José Lopes da Silva, Mario Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0356875,
+   "lng": -51.1038548,
+   "precisao": "via",
+   "resolvidoComo": "Rua Osvaldo França Junior, Vila Safira, Condomínio Residencial Aurora, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91260-300, Brasil"
+  },
+  {
+   "id": "pt-2a85bdcc01",
+   "nome": "Rua Paulino Azurenha / Av. Bento Gonçalves",
+   "endereco": "Rua Paulino Azurenha / Av. Bento Gonçalves, Partenon, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0644988,
+   "lng": -51.1930183,
+   "precisao": "via",
+   "resolvidoComo": "Rua Paulino Azurenha, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90680-090, Brasil"
+  },
+  {
+   "id": "pt-f7d83aedce",
+   "nome": "Rua Pedro Ismael Claros / Rua Ten. Eugênio Duarte",
+   "endereco": "Rua Pedro Ismael Claros / Rua Ten. Eugênio Duarte, Jardim Algarve, Alvorada, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0311579,
+   "lng": -51.0695051,
+   "precisao": "via",
+   "resolvidoComo": "Rua Pedro Ismael Claros, Porto Verde, Algarve, Alvorada, Rio Grande do Sul, Região Sul, 94858-342, Brasil"
+  },
+  {
+   "id": "pt-259cd0bd4a",
+   "nome": "Rua Pero Lobo Pinheiro / Rua João Paris",
+   "endereco": "Rua Pero Lobo Pinheiro / Rua João Paris, Santa Rosa De Lima, Porto Alegre, RS",
+   "linhas": [
+    "L104"
+   ],
+   "lat": -29.9907099,
+   "lng": -51.1052353,
+   "precisao": "via",
+   "resolvidoComo": "Rua Pero Lobo Pinheiro, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91160-310, Brasil"
+  },
+  {
+   "id": "pt-c7ded5aa21",
+   "nome": "Rua Saturnino José Geraldo / Rua Luiz Sibemberg",
+   "endereco": "Rua Saturnino José Geraldo / Rua Luiz Sibemberg, Mario Quintana, Porto Alegre, RS",
+   "linhas": [
+    "L204"
+   ],
+   "lat": -30.0360025,
+   "lng": -51.1085484,
+   "precisao": "via",
+   "resolvidoComo": "Rua Saturnino José Geraldo, Vila Safira, Mário Quintana, Porto Alegre, Rio Grande do Sul, Região Sul, 91260-300, Brasil"
+  },
+  {
+   "id": "pt-e8e10f80e2",
+   "nome": "Rua Silvestre Félix Rodrigues / Rua Terezinha Turcato",
+   "endereco": "Rua Silvestre Félix Rodrigues / Rua Terezinha Turcato, Costa E Silva, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -30.0083375,
+   "lng": -51.1199037,
+   "precisao": "via",
+   "resolvidoComo": "Rua Silvestre Félix Rodrigues, Costa e Silva, Porto Alegre, Rio Grande do Sul, Região Sul, 91150-022, Brasil"
+  },
+  {
+   "id": "pt-26ce696cc9",
+   "nome": "Rua São Francisco / Rua Euclides Da Cunha",
+   "endereco": "Rua São Francisco / Rua Euclides Da Cunha, Partenon, Porto Alegre, RS",
+   "linhas": [
+    "L101"
+   ],
+   "lat": -30.0508488,
+   "lng": -51.1980226,
+   "precisao": "via",
+   "resolvidoComo": "Rua São Francisco, Partenon, Porto Alegre, Rio Grande do Sul, Região Sul, 90610-200, Brasil"
+  },
+  {
+   "id": "pt-e461ea578c",
+   "nome": "Rua Tamoios, 249",
+   "endereco": "Rua Tamoios, 249, Parque Índio Jari, Viamão, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.0538647,
+   "lng": -51.0990503,
+   "precisao": "via",
+   "resolvidoComo": "Rua Paulo, Monte Alegre, Passo do Sabão, Santa Isabel, Passo do Sabão, Viamão, Rio Grande do Sul, Região Sul, 94495-400, Brasil"
+  },
+  {
+   "id": "pt-0e2b31b0ac",
+   "nome": "Rua Tiradentes / Av. Sen. Salgado Filho",
+   "endereco": "Rua Tiradentes / Av. Sen. Salgado Filho, Viamópolis, Viamão, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.0876124,
+   "lng": -51.0848159,
+   "precisao": "via",
+   "resolvidoComo": "Rua Tiradentes, Cinco Irmãos, Esmeralda, Viamópolis, Viamão, Rio Grande do Sul, Região Sul, 94470-000, Brasil"
+  },
+  {
+   "id": "pt-ab0162ee66",
+   "nome": "Rua Tupi / Rua Roque Santeiro",
+   "endereco": "Rua Tupi / Rua Roque Santeiro, Maria Regina, Alvorada, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -29.9947319,
+   "lng": -51.0533419,
+   "precisao": "via",
+   "resolvidoComo": "Rua Tupi, Umbu, Formosa / Maria Regina, Alvorada, Rio Grande do Sul, Região Sul, 94828-321, Brasil"
+  },
+  {
+   "id": "pt-0061146323",
+   "nome": "Rua Valdemar Albino de Araújo / Rua M",
+   "endereco": "Rua Valdemar Albino de Araújo / Rua M, Santa Rosa de Lima, Porto Alegre, RS",
+   "linhas": [
+    "L203"
+   ],
+   "lat": -29.9933825,
+   "lng": -51.0989702,
+   "precisao": "via",
+   "resolvidoComo": "Rua Valdemar Albino de Araújo, Vila Santa Rosa, Santa Rosa de Lima, Porto Alegre, Rio Grande do Sul, Região Sul, 91170-200, Brasil"
+  },
+  {
+   "id": "pt-46cf9c0fb6",
+   "nome": "Rua Vale Verde, 2209",
+   "endereco": "Rua Vale Verde, 2209, Lomba do Pinheiro, Porto Alegre, RS",
+   "linhas": [
+    "L202"
+   ],
+   "lat": -30.1100206,
+   "lng": -51.1030634,
+   "precisao": "numero",
+   "resolvidoComo": "Rua Vale Verde, Vila Santa Helena, Lomba do Pinheiro, Porto Alegre, Rio Grande do Sul, Região Sul, 91570-730, Brasil"
+  }
+ ]
+}

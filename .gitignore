@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+tsconfig.tsbuildinfo
+*.log
+.DS_Store
+
+# planilhas de passageiros (LGPD): nunca versionar
+planilhas/
+*.xlsx
+
+# cache de geocodificação (regerável com `npm run geocodificar`)
+data/geocode-cache.json
+
+# DEVEM ser versionados: data/pontos-origem.json, public/data/pontos-coleta.json, data/geocode-pendentes.json
