@@ -1,4 +1,4 @@
-# Build estático (Vite) + Nginx. Deploy no EasyPanel: build "Dockerfile", porta 80.
+# Build estático (Vite) + Nginx. Deploy no EasyPanel: build "Dockerfile", porta 3011.
 # As variáveis VITE_* são embutidas no bundle durante o build (são públicas: nunca passe segredo por aqui).
 
 # ---------- build ----------
@@ -28,5 +28,6 @@ FROM nginx:1.31-alpine AS runtime
 COPY deploy/nginx.conf /etc/nginx/conf.d/default.conf
 COPY --from=build /app/dist /usr/share/nginx/html
 
-EXPOSE 80
-HEALTHCHECK --interval=30s --timeout=3s --start-period=5s CMD wget -q --spider http://127.0.0.1/ || exit 1
+# Porta 3011 (a 5173 fica livre para o `npm run dev`)
+EXPOSE 3011
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s CMD wget -q --spider http://127.0.0.1:3011/ || exit 1

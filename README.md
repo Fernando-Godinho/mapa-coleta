@@ -24,10 +24,10 @@ está em `src/components/ui/map.tsx`. Para atualizá-lo, rode `npx shadcn@latest
 Os círculos são polígonos GeoJSON geodésicos (`@turf/circle`) em camadas MapLibre — não são pixels/CSS.
 
 ## Deploy (EasyPanel / Docker)
-`Dockerfile` na raiz: build com Node 22 (`npm ci && npm run build`) e runtime Nginx na porta **80**
+`Dockerfile` na raiz: build com Node 22 (`npm ci && npm run build`) e runtime Nginx na porta **3011**
 (config em `deploy/nginx.conf`, com SPA fallback, gzip e cache longo para `/assets`).
 
-No EasyPanel: **Create App → Source: GitHub → Build: Dockerfile → Port: 80**. Nada de volume é necessário.
+No EasyPanel: **Create App → Source: GitHub → Build: Dockerfile → Port: 3011**. Nada de volume é necessário.
 As `VITE_*` são embutidas no bundle em tempo de build (`ARG` no Dockerfile):
 
 | Build arg | Padrão | Para quê |
@@ -37,7 +37,8 @@ As `VITE_*` são embutidas no bundle em tempo de build (`ARG` no Dockerfile):
 | `VITE_GEOCODER_EMAIL` | vazio | identificação na política do Nominatim |
 | `VITE_GEOCODER_AUTOCOMPLETE` | `false` | `true` só com instância própria |
 
-Teste local: `docker build -t mapa-coleta . && docker run --rm -p 8080:80 mapa-coleta` → http://localhost:8080.
+Teste local: `docker build -t mapa-coleta . && docker run --rm -p 3011:3011 mapa-coleta` → http://localhost:3011.
+(O `npm run dev` continua na 5173; a imagem usa 3011 para não colidir.)
 
 O `public/data/pontos-coleta.json` é **copiado para dentro da imagem**: depois de rodar `npm run geocodificar`,
 faça um novo deploy (ou troque `VITE_PONTOS_URL` por uma API para atualizar dados sem rebuild).
