@@ -10,7 +10,7 @@
     "extrair": "python3 scripts/extract_points.py ./planilhas data/pontos-origem.json",
     "geocodificar": "node scripts/geocode-points.mjs",
     "dados": "npm run extrair && npm run geocodificar",
-    "test": "node --experimental-strip-types scripts/test-geo.mts"
+    "test": "node --experimental-strip-types scripts/test-geo.mts && node --experimental-strip-types scripts/test-geocode.mts"
   },
   "dependencies": {
     "@fontsource-variable/geist": "^5.3.0",

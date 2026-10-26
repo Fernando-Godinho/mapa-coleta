@@ -4,7 +4,7 @@ import type { PontoColeta } from "../types";
 // FONTE DE DADOS: public/data/pontos-coleta.json (gerado por scripts/geocode-points.mjs).
 // Para ligar ao banco, troque SOMENTE a URL (ex.: "/api/pontos-coleta") mantendo o formato
 // { pontos: PontoColeta[] }. Nenhum ponto é criado aqui.
-const URL_PONTOS = (import.meta.env.VITE_PONTOS_URL as string | undefined) ?? `${import.meta.env.BASE_URL}data/pontos-coleta.json`;
+const URL_PONTOS = (import.meta.env.VITE_PONTOS_URL as string | undefined)?.trim() || `${import.meta.env.BASE_URL}data/pontos-coleta.json`;
 
 export function usePontos() {
   const [estado, setEstado] = useState<{ carregando: boolean; erro?: string; pontos: PontoColeta[] }>({ carregando: true, pontos: [] });

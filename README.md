@@ -37,12 +37,17 @@ As `VITE_*` são embutidas no bundle em tempo de build (`ARG` no Dockerfile):
 | `VITE_GEOCODER_EMAIL` | vazio | identificação na política do Nominatim |
 | `VITE_GEOCODER_AUTOCOMPLETE` | `false` | `true` só com instância própria |
 
+**Atenção ao definir as variáveis no EasyPanel:** deixe-as **em branco/não definidas** para usar o padrão.
+Valor vazio é tratado como ausente (antes, um `VITE_GEOCODER_URL` vazio fazia a busca ir para `/search` no
+próprio domínio). A tabela acima é o padrão embutido no `Dockerfile`.
+
 Teste local: `docker build -t mapa-coleta . && docker run --rm -p 3011:3011 mapa-coleta` → http://localhost:3011.
 (O `npm run dev` continua na 5173; a imagem usa 3011 para não colidir.)
 
 O `public/data/pontos-coleta.json` é **copiado para dentro da imagem**: depois de rodar `npm run geocodificar`,
 faça um novo deploy (ou troque `VITE_PONTOS_URL` por uma API para atualizar dados sem rebuild).
 `planilhas/` e `data/` (planilhas e cache, LGPD) ficam fora do contexto via `.dockerignore`.
+O healthcheck usa `GET /healthz` (200, sem log de acesso).
 
 ## Como testar
 1. `npm install`. O MapCN já está instalado (`src/components/ui/map.tsx` + registry em `components.json`);

@@ -4,9 +4,15 @@
 // VITE_GEOCODER_URL para uma instância própria e defina VITE_GEOCODER_AUTOCOMPLETE=true.
 export interface ResultadoGeocode { lat: number; lng: number; rotulo: string; id: string }
 
-const BASE = (import.meta.env.VITE_GEOCODER_URL as string | undefined) ?? "https://nominatim.openstreetmap.org";
-const EMAIL = import.meta.env.VITE_GEOCODER_EMAIL as string | undefined;
-export const AUTOCOMPLETE = import.meta.env.VITE_GEOCODER_AUTOCOMPLETE === "true";
+const env = (import.meta.env ?? {}) as Record<string, string | undefined>;
+/** String vazia (ex.: build arg não definido) NÃO é URL: cai no padrão. Remove barra final. */
+export function resolverBase(url?: string): string {
+  const t = url?.trim().replace(/\/+$/, "");
+  return t || "https://nominatim.openstreetmap.org";
+}
+export const BASE = resolverBase(env.VITE_GEOCODER_URL);
+const EMAIL = env.VITE_GEOCODER_EMAIL?.trim() || undefined;
+export const AUTOCOMPLETE = env.VITE_GEOCODER_AUTOCOMPLETE?.trim() === "true";
 const cache = new Map<string, ResultadoGeocode[]>();
 let ultima = 0;
 
@@ -27,6 +33,9 @@ export async function buscarEndereco(texto: string, sinal?: AbortSignal): Promis
   try { r = await fetch(`${BASE}/search?${params}`, { signal: sinal }); }
   catch (e) { if ((e as Error).name === "AbortError") throw e; throw new GeocodeError("Sem conexão com o serviço de endereços."); }
   if (!r.ok) throw new GeocodeError(r.status === 429 ? "Muitas buscas seguidas. Aguarde alguns segundos." : `Serviço de endereços indisponível (${r.status}).`);
+  const tipo = r.headers.get("content-type") ?? "";
+  if (!tipo.includes("json")) // ex.: servidor devolvendo o index.html (URL do geocoder mal configurada)
+    throw new GeocodeError(`O serviço de endereços respondeu ${tipo || "sem tipo"} em vez de JSON. Verifique VITE_GEOCODER_URL.`);
   const dados = (await r.json()) as { place_id: number; lat: string; lon: string; display_name: string }[];
   const res = dados.map((d) => ({ id: String(d.place_id), lat: +d.lat, lng: +d.lon, rotulo: d.display_name }));
   cache.set(chave, res);

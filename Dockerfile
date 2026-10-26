@@ -8,7 +8,7 @@ FROM node:22-slim AS build
 WORKDIR /app
 
 ARG VITE_PONTOS_URL=/data/pontos-coleta.json
-ARG VITE_GEOCODER_URL=
+ARG VITE_GEOCODER_URL=https://nominatim.openstreetmap.org
 ARG VITE_GEOCODER_EMAIL=
 ARG VITE_GEOCODER_AUTOCOMPLETE=false
 ENV VITE_PONTOS_URL=${VITE_PONTOS_URL} \
@@ -30,4 +30,4 @@ COPY --from=build /app/dist /usr/share/nginx/html
 
 # Porta 3011 (a 5173 fica livre para o `npm run dev`)
 EXPOSE 3011
-HEALTHCHECK --interval=30s --timeout=3s --start-period=5s CMD wget -q --spider http://127.0.0.1:3011/ || exit 1
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s CMD wget -q --spider http://127.0.0.1:3011/healthz || exit 1
